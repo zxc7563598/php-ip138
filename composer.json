@@ -1,0 +1,20 @@
+{
+  "name": "hejunjie/ip138",
+  "description": "PHP 封装的 IP138 API SDK, 简化 IP、手机号归属地、天气查询信息接口以及二维码生成接口调用 | PHP SDK for IP138 API integration: IP lookup, mobile attribution, weather, QR code and more.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Hejunjie\\Ip138\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "何俊杰",
+      "email": "junjie.he.925@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  }
+}
