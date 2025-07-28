@@ -9,6 +9,8 @@ While working on multiple projects, I often needed to use [IP138's](https://user
 
 So I decided to wrap all of IP138's available APIs into this PHP SDK. It makes integration much easier in my own projects, and I’m sharing it here in case it helps others who have similar needs.
 
+**This project has been parsed by Zread. If you need a quick overview of the project, you can click on the number of views to view it：[Understand this project](https://zread.ai/zxc7563598/php-ip138)**
+
 ---
 
 ## 📦 Installation
